@@ -1,0 +1,62 @@
+{ "frames": [
+   {
+    "filename": "mom 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 64 },
+    "sourceSize": { "w": 32, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "mom 1.aseprite",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 64 },
+    "sourceSize": { "w": 32, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "mom 2.aseprite",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 64 },
+    "sourceSize": { "w": 32, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "mom 3.aseprite",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 64 },
+    "sourceSize": { "w": 32, "h": 64 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "mom.png",
+  "format": "RGBA8888",
+  "size": { "w": 128, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "jump", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "Loop", "from": 2, "to": 3, "direction": "forward" },
+   { "name": "walk", "from": 2, "to": 3, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "standing", "opacity": 255, "blendMode": "normal" },
+   { "name": "standlegs", "opacity": 255, "blendMode": "normal" },
+   { "name": "squatlegs", "opacity": 255, "blendMode": "normal" },
+   { "name": "squat", "opacity": 255, "blendMode": "normal" },
+   { "name": "walk-body", "opacity": 255, "blendMode": "normal" },
+   { "name": "walk-body-2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

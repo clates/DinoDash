@@ -1,0 +1,76 @@
+{ "frames": [
+   {
+    "filename": "monster-truck-template 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "sourceSize": { "w": 313, "h": 216 },
+    "duration": 30
+   },
+   {
+    "filename": "monster-truck-template 1.aseprite",
+    "frame": { "x": 313, "y": 0, "w": 313, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "sourceSize": { "w": 313, "h": 216 },
+    "duration": 30
+   },
+   {
+    "filename": "monster-truck-template 2.aseprite",
+    "frame": { "x": 626, "y": 0, "w": 313, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "sourceSize": { "w": 313, "h": 216 },
+    "duration": 30
+   },
+   {
+    "filename": "monster-truck-template 3.aseprite",
+    "frame": { "x": 939, "y": 0, "w": 313, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "sourceSize": { "w": 313, "h": 216 },
+    "duration": 30
+   },
+   {
+    "filename": "monster-truck-template 4.aseprite",
+    "frame": { "x": 1252, "y": 0, "w": 313, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "sourceSize": { "w": 313, "h": 216 },
+    "duration": 30
+   },
+   {
+    "filename": "monster-truck-template 5.aseprite",
+    "frame": { "x": 1565, "y": 0, "w": 313, "h": 216 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 313, "h": 216 },
+    "sourceSize": { "w": 313, "h": 216 },
+    "duration": 30
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "monster-truck-template.png",
+  "format": "RGBA8888",
+  "size": { "w": 1878, "h": 216 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Loop", "from": 0, "to": 5, "direction": "forward" },
+   { "name": "right", "from": 0, "to": 2, "direction": "forward" },
+   { "name": "left", "from": 3, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "right", "opacity": 255, "blendMode": "normal" },
+   { "name": "left", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
